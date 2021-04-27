@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there!! Welcome to my profile! 👋
+
+🚧 I'm a full-stack developer working in projects mainly using JavaScript frameworks (React, Angular, VueJS, NextJS) and uses either NodeJS or PHP (Laravel) as its backend / API.
+
+🎨 On my free time I'm learning any programming languages that piques my interest. I also learn on different ways on how to reorganize code, various design patterns and many, many more.
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rinminase&show_icons=true&border_radius=12&count_private=true&custom_title=My%20GitHub%20Stats)](https://github.com/rinminase)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rinminase&layout=compact&langs_count=6&border_radius=12&custom_title=My%20Most%20Used%20Languages)](https://github.com/rinminase)
+
+🌴 _Time you enjoy wasting is not wasted time._ — Bertrand Russell
 
 <!--
 **RinMinase/RinMinase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
