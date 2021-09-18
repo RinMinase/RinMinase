@@ -9,7 +9,7 @@
 🎨 On my free time I learn any programming language (or anything actually) that piques my interest. I also learn on different ways on how to reorganize code, various design patterns and much, much more.
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rinminase&show_icons=true&border_radius=12&count_private=true&theme=vue-dark&custom_title=My%20GitHub%20Stats)](https://github.com/rinminase)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rinminase&layout=compact&langs_count=6&border_radius=12&theme=vue-dark&custom_title=My%20Most%20Used%20Languages)](https://github.com/rinminase)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rinminase&layout=compact&langs_count=6&border_radius=12&theme=vue-dark&exclude_repo=react-chat-app,anidb-angularjs&custom_title=My%20Most%20Used%20Languages)](https://github.com/rinminase)
 
 🌴 _Time you enjoy wasting is not wasted time._ — Bertrand Russell
 
