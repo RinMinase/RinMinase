@@ -1,12 +1,12 @@
 ## Hi there!! Welcome to my profile! 👋
 
-🚧 I'm a full-stack web developer working in many projects using JavaScript / Typescript frameworks (React, Angular, VueJS, NextJS) and uses either NodeJS or PHP (Laravel, Lumen, Symfony) as its backend / API. I also have a deep knowledge on CSS (or CSS pre-processors) to extremely customize websites. 
+🚧 I'm a full-stack web developer working in many projects using JavaScript / Typescript frameworks (React, Angular and VueJS) and uses either NodeJS (Plain NodeJS, Express, Meteor and Sails) or PHP (Laravel, Lumen, Symfony) as its backend / REST API. I also have a deep knowledge on CSS (or CSS pre-processors) to extremely customize websites.
 
 ♥ What I really love most, is working with front-end design and UX, making it extremely fast and fluid.
 
-🔨 I have also tried working with Java, C, C++, and bit of Python and Ruby. Tools like Docker and creating batch / shell scripts are also on my arsenal to speed up development and setup process.
+🔨 I have also tried working with Java, C, C++, and bit of Python (Flask), Julia and Ruby (RoR). Tools like Docker and creating batch / shell scripts are also on my arsenal to speed up development and setup process. I have rummaged a lot on Webpack to learn on how to improve the build and compile times, and to learn on how it compiles the source code. 
 
-🎨 On my free time I learn any programming language (or anything actually) that piques my interest. I also learn on different ways on how to reorganize code, various design patterns and much, much more.
+🎨 On my free time I enjoy learning any programming language, concepts, technologies (or anything actually) that piques my interest. I also learn on different ways on how to reorganize code, various design patterns and much, much more.
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rinminase&show_icons=true&border_radius=12&count_private=true&theme=vue-dark&custom_title=My%20GitHub%20Stats)](https://github.com/rinminase)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rinminase&layout=compact&langs_count=6&border_radius=12&theme=vue-dark&exclude_repo=react-chat-app,anidb-angularjs&custom_title=My%20Most%20Used%20Languages)](https://github.com/rinminase)
