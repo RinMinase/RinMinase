@@ -1,6 +1,6 @@
 ## Hi there!! Welcome to my profile! 👋
 
-🚧 I'm a full-stack web developer working in many projects using JavaScript / Typescript frameworks (React, Angular and VueJS) and uses either NodeJS (Plain NodeJS, Express, Meteor and Sails) or PHP (Laravel, Lumen, Symfony) as its backend / REST API. I also have a deep knowledge on CSS (or CSS pre-processors) to extremely customize websites.
+🚧 I'm a full-stack web developer working in many projects using JavaScript / Typescript frameworks (React, Angular and VueJS) and uses either NodeJS (Plain NodeJS, Express, Meteor and Sails) or PHP (Laravel, Lumen, Symfony) as its backend / REST API. I also have a deep knowledge on CSS (or CSS pre-processors) to extremely customize websites. I have also worked with ElectronJS to create desktop applications.
 
 ♥ What I really love most, is working with front-end design and UX, making it extremely fast and fluid for the end-user.
 
