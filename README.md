@@ -8,7 +8,7 @@
 
 🔬 In JavaScript, I have rummaged a lot on their transpilers such as Webpack and Babel, task runners such as Grunt and Gulp to learn on how to improve the build and compile times, and to learn on how it transpiles the source code.
 
-🌱 As of the moment, I'm currently learning on both Flask (Python) and Swift.
+🌱 As of the moment, I'm currently learning on both Flask (Python) and Swift. I'm also learning in using PreactJS (a leaner ReactJS) with Vite bundler.
 
 🎨 On my free time I enjoy learning any programming language, concepts, technologies (or anything actually) that piques my interest. I also learn on different ways on how to reorganize code, various design patterns and much, much more.
 
