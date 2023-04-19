@@ -12,6 +12,10 @@
 
 🎨 On my free time I enjoy learning any programming language, concepts, technologies (or anything actually) that piques my interest. I also learn on different ways on how to reorganize code, various design patterns and much, much more.
 
+📜 Certifications:
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 💪🏻 I work great with:
 
 [![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&logo=react&logoColor=white)](#)
