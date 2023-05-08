@@ -13,8 +13,8 @@
 🎨 On my free time I enjoy learning any programming language, concepts, technologies (or anything actually) that piques my interest. I also learn on different ways on how to reorganize code, various design patterns and much, much more.
 
 📜 Certifications:
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
+
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/150x150/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/e6de2405-e311-4979-b49a-10a0ba78dc33 "AWS Certified Cloud Practitioner")
 
 💪🏻 I work great with:
 
