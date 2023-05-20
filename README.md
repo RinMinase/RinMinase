@@ -14,7 +14,7 @@
 
 📜 Certifications:
 
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/150x150/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/e6de2405-e311-4979-b49a-10a0ba78dc33 "AWS Certified Cloud Practitioner&#013;Acquired on: Feb 28, 2023&#013;Expires on: Feb 28, 2026")
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/150x150/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/e6de2405-e311-4979-b49a-10a0ba78dc33 "AWS Certified Cloud Practitioner&#013;&#010;Acquired on: Feb 28, 2023&#013;&#010;Expires on: Feb 28, 2026")
 
 💪🏻 I work great with:
 
