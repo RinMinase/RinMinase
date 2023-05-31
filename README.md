@@ -1,14 +1,14 @@
 ## Hi there!! Welcome to my profile! 👋
 
-🚧 I'm a full-stack web developer (with a forte in Front-end development) working in many projects using JavaScript / Typescript frameworks (React, Angular and VueJS) and uses either NodeJS (Plain NodeJS, Express, Meteor and Sails), PHP (Laravel, Lumen, Symfony) or Python (Flask) as its backend / REST API. I also have a very deep knowledge on CSS (or CSS pre-processors) to extremely customize websites. I have also worked with ElectronJS to create desktop applications and React Native to create mobile applications.
+🚧 I'm a full-stack web developer (with a forte in Front-end development) working in many projects using JavaScript / Typescript frameworks (React, Angular and VueJS) and uses either NodeJS (Plain NodeJS and Express) or PHP (Laravel, Lumen, Symfony) as its backend / REST API. I also have a very deep knowledge on CSS (or CSS pre-processors) to extremely customize websites, whether using Plain CSS or using libraries such as Tailwind. I have also worked with ElectronJS to create desktop applications and React Native to create mobile applications.
 
-♥ What I really love most, is working with front-end design (desktop, tablet, or mobile, you name your device) and UX, making it extremely fast and fluid for the end-user.
+❤️ What I really love most, is working with front-end design (desktop, tablet, mobile, fridge, vacuum cleaners, you name your device 🤣) and UX, making it extremely fast and fluid for the end-user.
 
-🔨 I have also tried working with Java (Plain Java, Springboot), C, C++, a bit of Julia and Ruby (RoR). Tools like Docker and creating batch / shell scripts are also on my arsenal to speed up development and setup process. I've also had a lot of hands-on experience with both setting up and debugging Linux and Windows servers.
+🔨 I have also tried working with Java (Plain Java, Springboot), C, C++, a bit of Julia, a bit of Go, Ruby (RoR), NodeJS (Meteor and Sails) and Python (Flask). Tools like Docker and creating batch / shell scripts are also on my arsenal to speed up development and setup process. I've also had a lot of hands-on experience with both setting up and debugging Linux and Windows servers.
 
 🔬 In JavaScript, I have rummaged a lot on their transpilers such as Webpack, Vite and Babel, task runners such as Grunt and Gulp to learn on how to improve the build and compile times, and to learn on how it transpiles the source code.
 
-🌱 As of the moment, I'm currently learning on both using Vite compiler in JavaScript. I'm also learning in using PreactJS (a leaner ReactJS) to create a faster web application.
+🌱 As of the moment, I'm currently learning on both using Vite compiler in JavaScript. I'm also learning in using PreactJS (a leaner ReactJS) to create faster web applications.
 
 🎨 On my free time I enjoy learning any programming language, concepts, technologies (or anything actually) that piques my interest. I also learn on different ways on how to reorganize code, various design patterns and much, much more. Lastly, I also love and enjoy travelling, photography and PC building.
 
