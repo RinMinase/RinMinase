@@ -10,7 +10,7 @@
 
 🌱 As of the moment, I'm currently learning on both using Vite compiler in JavaScript. I'm also learning in using PreactJS (a leaner ReactJS) to create a faster web application.
 
-🎨 On my free time I enjoy learning any programming language, concepts, technologies (or anything actually) that piques my interest. I also learn on different ways on how to reorganize code, various design patterns and much, much more.
+🎨 On my free time I enjoy learning any programming language, concepts, technologies (or anything actually) that piques my interest. I also learn on different ways on how to reorganize code, various design patterns and much, much more. Lastly, I also love and enjoy travelling, photography and PC building.
 
 📜 Certifications:
 
