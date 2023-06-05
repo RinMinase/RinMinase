@@ -37,8 +37,8 @@
 [![Firebase](https://img.shields.io/badge/-firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/-docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rinminase&show_icons=true&border_radius=12&count_private=true&theme=vue-dark&hide_rank=true&custom_title=My%20GitHub%20Stats)](https://github.com/rinminase)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rinminase&layout=compact&langs_count=6&border_radius=12&hide=java&theme=vue-dark&custom_title=My%20Most%20Used%20Languages)](https://github.com/rinminase)
+[![GitHub Stats](https://github-readme-stats-rinminase.vercel.app/api?username=rinminase&show_icons=true&border_radius=12&count_private=true&theme=vue-dark&hide_rank=true&custom_title=My%20GitHub%20Stats)](https://github.com/rinminase)
+[![Top Languages](https://github-readme-stats-rinminase.vercel.app/api/top-langs/?username=rinminase&layout=compact&langs_count=6&border_radius=12&hide=java&theme=vue-dark&custom_title=My%20Most%20Used%20Languages)](https://github.com/rinminase)
 
 🖥 My current workspace
 
