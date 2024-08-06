@@ -35,17 +35,23 @@
 [![PHP](https://img.shields.io/badge/-php-787cb5?style=for-the-badge&logo=php&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/-mysql-00758F?style=for-the-badge&logo=mysql&logoColor=white)](#)
 [![PostgreSQL](https://img.shields.io/badge/-postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)](#)
+[![CockroachDB](https://img.shields.io/badge/-CockroachDB-6933FF?style=for-the-badge&logo=cockroachlabs&logoColor=white)](#)
 [![MongoDB](https://img.shields.io/badge/-mongodb-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 [![Firebase](https://img.shields.io/badge/-firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/-docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](#)
 [![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)](#)
 
-⚙️ I likewise can work with:
+⚙️ I likewise can and have worked (to a slight extent) with:
 
 [![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)](#)
 [![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)](#)
 [![Electron JS](https://img.shields.io/badge/-Electron%20JS-47848F?style=for-the-badge&logo=electron&logoColor=white)](#)
+[![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/-Java-F89820?style=for-the-badge&logo=coffeescript&logoColor=white)](#)
+[![Springboot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](#)
+[![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)](#)
+[![Rails](https://img.shields.io/badge/-Rails%20(RoR)-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white)](#)
 
 
 [![GitHub Stats](https://github-readme-stats-rinminase.vercel.app/api?username=rinminase&show_icons=true&border_radius=12&count_private=true&theme=vue-dark&hide_rank=true&custom_title=My%20GitHub%20Stats)](https://github.com/rinminase)
