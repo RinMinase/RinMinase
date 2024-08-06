@@ -46,6 +46,7 @@
 
 [![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)](#)
 [![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)](#)
+[![Cordova](https://img.shields.io/badge/-Cordova-E8E8E8?style=for-the-badge&logo=apachecordova&logoColor=black)](#)
 [![Electron JS](https://img.shields.io/badge/-Electron%20JS-47848F?style=for-the-badge&logo=electron&logoColor=white)](#)
 [![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/-Java-F89820?style=for-the-badge&logo=coffeescript&logoColor=white)](#)
