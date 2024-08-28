@@ -16,8 +16,7 @@
 
 <a href="https://www.credly.com/badges/e6de2405-e311-4979-b49a-10a0ba78dc33" title="AWS Certified Cloud Practitioner (CLF-C01) (Retired)&#013;&#010;Acquired on: Feb 28, 2023&#013;&#010;Expires on: Oct 11, 2026">
   <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" height="150" width="150">
-</a>
-<a href="https://www.credly.com/badges/7a1d6672-7672-4919-a9b5-7903adeddd83" title="AWS Certified Solutions Architect – Associate (SAA-C03)&#013;&#010;Acquired on: Oct 11, 2023&#013;&#010;Expires on: Oct 11, 2026">
+</a><a href="https://www.credly.com/badges/7a1d6672-7672-4919-a9b5-7903adeddd83" title="AWS Certified Solutions Architect – Associate (SAA-C03)&#013;&#010;Acquired on: Oct 11, 2023&#013;&#010;Expires on: Oct 11, 2026">
   <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" height="150" width="150">
 </a>
 
