@@ -6,7 +6,7 @@
 
 🔨 I have also tried working with Java (Plain Java, Springboot), C, C++, a bit of Julia, a bit of Go, Ruby (RoR), NodeJS (Meteor and Sails) and Python (Flask). Tools like Docker and creating batch / shell scripts are also on my arsenal to speed up development and setup process. I've also had a lot of hands-on experience with both setting up and debugging Linux and Windows servers.
 
-🔬 In JavaScript, I have rummaged a lot on their transpilers such as Webpack, Vite and Babel, task runners such as Grunt and Gulp to learn on how to improve the build and compile times, and to learn on how it transpiles the source code.
+🔬 In JavaScript, I have rummaged a lot on their transpilers such as Webpack, Vite and Babel, task runners such as Grunt and Gulp to learn on how to improve the build and compile times, and to learn on how it transpiles the source code. I'm also into trying out new and somewhat experimental technologies such as Bun.sh.
 
 🌱 As of the moment, I'm currently learning on utilizing ang architecting better AWS project structures. I'm also learning on using Vite compiler in JavaScript and likewise PreactJS (a leaner ReactJS) to create faster and more responsive web applications.
 
@@ -49,6 +49,7 @@
 [![Cordova](https://img.shields.io/badge/-Cordova-E8E8E8?style=for-the-badge&logo=apachecordova&logoColor=black)](#)
 [![Electron JS](https://img.shields.io/badge/-Electron%20JS-47848F?style=for-the-badge&logo=electron&logoColor=white)](#)
 [![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)](#)
+[![Bun](https://img.shields.io/badge/-Bun.sh-404040?style=for-the-badge&logo=bun&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/-Java-F89820?style=for-the-badge&logo=coffeescript&logoColor=white)](#)
 [![Springboot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](#)
 [![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)](#)
@@ -60,7 +61,7 @@
 
 🖥️ My current workspace
 
-[![i7-9700K](https://img.shields.io/badge/-intel%20i7%209700k-0071C5?style=for-the-badge&logo=intel&logoColor=white&labelColor=gray)](#)
+[![AMD Ryzen 7 7800X3D](https://img.shields.io/badge/-amd%20Ryzen%207%207800X3D-ED1C24?style=for-the-badge&logo=amd&logoColor=white&labelColor=gray)](#)
 [![GTX 3060TI](https://img.shields.io/badge/-gtx%203060TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=gray)](#)
 [![Windows](https://img.shields.io/badge/-windows-0078D6?style=for-the-badge&labelColor=gray&logo=data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](#)
 [![Macbook Air M1](https://img.shields.io/badge/-macbook%20air%20m1-404040?style=for-the-badge&logo=apple&logoColor=white&labelColor=gray)](#)
