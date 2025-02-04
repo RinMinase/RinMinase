@@ -30,17 +30,21 @@
 [![NodeJS](https://img.shields.io/badge/-node.js-3c873a?style=for-the-badge&logo=node.js&logoColor=white)](#)
 [![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](#)
 [![HTML](https://img.shields.io/badge/-html-e34c26?style=for-the-badge&logo=html5&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/-css-264de4?style=for-the-badge&logo=css3&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/-css-663399?style=for-the-badge&logo=css&logoColor=white)](#)
+[![Tailwind CSS](https://img.shields.io/badge/-tailwind%20css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](#)
 [![Laravel](https://img.shields.io/badge/-Laravel-f44336?style=for-the-badge&logo=laravel&logoColor=white)](#)
 [![PHP](https://img.shields.io/badge/-php-787cb5?style=for-the-badge&logo=php&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/-mysql-00758F?style=for-the-badge&logo=mysql&logoColor=white)](#)
 [![PostgreSQL](https://img.shields.io/badge/-postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)](#)
 [![CockroachDB](https://img.shields.io/badge/-CockroachDB-6933FF?style=for-the-badge&logo=cockroachlabs&logoColor=white)](#)
 [![MongoDB](https://img.shields.io/badge/-mongodb-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)](#)
-[![Firebase](https://img.shields.io/badge/-firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)](#)
+[![Firebase + Firestore](https://img.shields.io/badge/-firebase%20+%20firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/-docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](#)
 [![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)](#)
+[![Porkbun Hosting](https://img.shields.io/badge/-porkbun%20hosting-EF7878?style=for-the-badge&logo=porkbun&logoColor=white)](#)
+[![Linux](https://img.shields.io/badge/-linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)](#)
+
 
 ⚙️ I likewise can and have worked (to a slight extent) with:
 
