@@ -25,6 +25,7 @@
 [![Preact](https://img.shields.io/badge/-Preact-673AB8?style=for-the-badge&logo=preact&logoColor=white)](#)
 [![Next.js](https://img.shields.io/badge/-Next.js-404040?style=for-the-badge&logo=next.js&logoColor=white)](#)
 [![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?style=for-the-badge&logo=nuxt&logoColor=white)](#)
+[![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)](#)
 [![TypeScript](https://img.shields.io/badge/-typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/-Javascript-f0db4f?style=for-the-badge&logo=javascript&logoColor=white)](#)
 [![NodeJS](https://img.shields.io/badge/-node.js-3c873a?style=for-the-badge&logo=node.js&logoColor=white)](#)
@@ -42,6 +43,7 @@
 [![Docker](https://img.shields.io/badge/-docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](#)
 [![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)](#)
+[![Google Cloud (GCP)](https://img.shields.io/badge/-google%20cloud%20(gcp)-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](#)
 [![Porkbun Hosting](https://img.shields.io/badge/-porkbun%20hosting-EF7878?style=for-the-badge&logo=porkbun&logoColor=white)](#)
 [![Linux](https://img.shields.io/badge/-linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)](#)
 
@@ -52,7 +54,6 @@
 [![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)](#)
 [![Cordova](https://img.shields.io/badge/-Cordova-E8E8E8?style=for-the-badge&logo=apachecordova&logoColor=black)](#)
 [![Electron JS](https://img.shields.io/badge/-Electron%20JS-47848F?style=for-the-badge&logo=electron&logoColor=white)](#)
-[![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)](#)
 [![Bun](https://img.shields.io/badge/-Bun.sh-404040?style=for-the-badge&logo=bun&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/-Java-F89820?style=for-the-badge&logo=coffeescript&logoColor=white)](#)
 [![Springboot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](#)
