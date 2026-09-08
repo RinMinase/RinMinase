@@ -32,6 +32,8 @@
 [![TypeScript](https://img.shields.io/badge/-typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/-Javascript-f0db4f?style=for-the-badge&logo=javascript&logoColor=white)](#)
 [![NodeJS](https://img.shields.io/badge/-node.js-3c873a?style=for-the-badge&logo=node.js&logoColor=white)](#)
+[![Express](https://img.shields.io/badge/-express.js-0A0A0A?style=for-the-badge&logo=express&logoColor=white)](#)
+[![Fastify](https://img.shields.io/badge/-fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)](#)
 [![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](#)
 [![HTML](https://img.shields.io/badge/-html-e34c26?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/-css-663399?style=for-the-badge&logo=css&logoColor=white)](#)
